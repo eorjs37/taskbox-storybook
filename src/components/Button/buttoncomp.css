@@ -1,0 +1,13 @@
+.button_comp {
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #007bff;
+  color: #fff;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.button_comp:disabled {
+  opacity: 0.3;
+}
